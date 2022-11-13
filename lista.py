@@ -2,7 +2,8 @@ shopping_list = {
     "Lidl": ["pierogi","spaghetti","sos boloński","mięso mielone","ser"],
     "Intermarche": ["drogi chleb","drogi papier","drogie chipsy"],
     "Chińczyk": ["tanie spodnie","tani gadżet"],
-    "Rossman": ["drogie nie moje kosmetyki","tani szampon 3 w 1"]
+    "Rossman": ["drogie nie moje kosmetyki","tani szampon 3 w 1"],
+    "Kodilla": ["opłacalny bootcamp"]
 }
 item_count = 0
 for shop, products in shopping_list.items():
