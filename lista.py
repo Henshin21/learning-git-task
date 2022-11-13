@@ -9,3 +9,4 @@ for shop, products in shopping_list.items():
     print(F"Idę do {shop.capitalize()} i kupuję {[food.capitalize() for food in products]}")
     item_count += len(products)
 print(f"W sumie kupuję {item_count} rzeczy")
+#pozdrowienia dla Kamila (yo yo!)
